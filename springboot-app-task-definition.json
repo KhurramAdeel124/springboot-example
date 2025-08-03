@@ -85,6 +85,5 @@
     },
     "registeredAt": "2025-08-03T11:25:13.832Z",
     "registeredBy": "arn:aws:iam::976193236918:user/khurramadeel_aws",
-    "enableFaultInjection": false,
     "tags": []
 }
